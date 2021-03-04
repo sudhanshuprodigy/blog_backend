@@ -25,7 +25,7 @@ This Blog uses a number of open source projects to work properly:
     - Clone this repo by using git
     ```sh
     cd folder/project_name
-    git clone
+    git clone https://github.com/sudhanshuprodigy/blog_backend.git
     ```
     - then open this project in any editor like _VSCode , Sublime, Atom, etc_ and go to terminal
     ```sh
